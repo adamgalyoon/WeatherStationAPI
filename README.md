@@ -10,7 +10,7 @@ To build and run this app locally you will need to install the following:
 - Clone the repository
 
 ```
-git clone https://github.com/aagalyoon/CUDemo
+git clone https://github.com/aagalyoon/WeatherStationAPI
 ```
 
 - Install dependencies
