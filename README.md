@@ -1,6 +1,6 @@
 # Requirements
 
-To build and run this app locally you will need a few things:
+To build and run this app locally you will need to install the following:
 
 - Install [Node.js](https://nodejs.org/en/)
 - Install [MongoDB](https://docs.mongodb.com/manual/installation/)
@@ -16,7 +16,7 @@ git clone https://github.com/aagalyoon/CUDemo
 - Install dependencies
 
 ```
-cd CUDemo
+cd WeatherStationAPI
 npm install
 ```
 
