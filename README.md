@@ -53,6 +53,7 @@ npm start
 # API Documentation
 
 - Navigate to `http://localhost:3000` and you should see the API documentation!
+<img width="682" alt="Screenshot 2023-03-20 at 1 46 50 AM" src="https://user-images.githubusercontent.com/112532004/226257328-58f777a9-2af7-43a5-88da-657fa64d6647.png">
 
 # Unit Tests
 
