@@ -2,8 +2,8 @@
 
 To build and run this app locally, you will need to install the following:
 
-- Install [Node.js](https://nodejs.org/en/)
-- Install [MongoDB](https://docs.mongodb.com/manual/installation/)
+- [Node.js](https://nodejs.org/en/)
+- [MongoDB](https://docs.mongodb.com/manual/installation/)
 
 # Getting started
 
